@@ -3,6 +3,7 @@ package com.amit.toys.java8.lambda.fi;
 /*
  * This is example of functional interface. 
  */
+@FunctionalInterface
 public interface MathOperation {
 
 	int operate(int a, int b);

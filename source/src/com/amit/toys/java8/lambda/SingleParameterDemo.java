@@ -1,8 +1,5 @@
 package com.amit.toys.java8.lambda;
 
-import java.util.function.Function;
-import java.util.function.UnaryOperator;
-
 import com.amit.toys.java8.lambda.fi.SquareGenerator;
 
 public class SingleParameterDemo {
